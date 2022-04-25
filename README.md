@@ -1,1 +1,1 @@
-# parallax0-web-page
+# parallax-web-page
