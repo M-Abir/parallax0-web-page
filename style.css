@@ -63,3 +63,11 @@ body, html{
 .text .trans{
     background-color: transparent;
 }
+@media(max-width:525px){
+    .text .border{
+        padding: 10px;
+    }
+    .text{
+        letter-spacing: 6px;
+        font-size: 23px;
+    }
